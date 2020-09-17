@@ -6,6 +6,12 @@
   "permissions": [
     "activeTab"
   ],
+  "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "36": "icons/icon36.png",
+      "48": "icons/icon48.png"
+   },
   "content_scripts": [ {
       "all_frames": true,
       "js": [ "jquery.min.js", "background.js" ],
