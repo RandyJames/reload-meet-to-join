@@ -1,7 +1,7 @@
 {
   "name": "Google Classroom Meet Lookup Reload",
-  "version": "1.0",
-  "description": "Automatically click the reload button on google meet links generate from google classroom.",
+  "version": "0.0.0.1",
+  "description": "Automatically click the reload button on google meet links generated from google classroom.",
   "manifest_version": 2,
   "permissions": [
     "activeTab"
